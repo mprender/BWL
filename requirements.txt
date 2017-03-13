@@ -1,15 +1,4 @@
-nbpresent
-pandas as pd
+pandas
 matplotlib 
-matplotlib.pyplot as plt
-sys
-numpy as np
-seaborn as sns
-math
-matplotlib.pyplot as plt
-plotly.plotly as py
-py.sign_in('mprend22', 'q9mqm78tbw')
-plotly.tools import FigureFactory as FF 
-cufflinks as cf
-cf.set_config_file(theme='ggplot',sharing='public',offline=True)
-%matplotlib inline
+matplotlib.pyplot 
+seaborn
